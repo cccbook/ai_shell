@@ -1,4 +1,4 @@
-# How AI use shell
+# E-Book: Let AI teach you shell
 
 > A book for human programmer
 
